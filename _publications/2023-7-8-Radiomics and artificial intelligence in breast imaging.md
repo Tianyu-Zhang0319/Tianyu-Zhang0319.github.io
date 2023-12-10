@@ -1,7 +1,7 @@
 ---
 title: "Radiomics and artificial intelligence in breast imaging: a survey"
 collection: publications
-permalink: /publication/2023-7-8-Radiomics and artificial intelligence in breast imaging: a survey
+permalink: /publication/2023-7-8-Radiomics and artificial intelligence in breast imaging
 excerpt: 'In this comprehensive review, we cover the progress, application and challenge of radiomics and AI in breast cancer diagnosis in recent years, as well as the impact and significance of AI on future breast cancer research.'
 date: 2023-7-8
 venue: 'Artificial Intelligence Review'
