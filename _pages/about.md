@@ -48,4 +48,3 @@ Review Service
 *    [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
 *    [Breast Cancer Research and Treatment](https://link.springer.com/journal/10549)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tianyu-Zhang0319.github.io)
