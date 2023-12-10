@@ -28,22 +28,22 @@ More publications see my [GoogleScholar](https://scholar.google.com/citations?us
 
 Review Service
 ======
-[Nature Communications](https://www.nature.com/ncomms/)
-[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
-[European Radiology](https://link.springer.com/journal/330)
-[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
-[Breast Cancer Research and Treatment](https://link.springer.com/journal/10549)
+*[Nature Communications](https://www.nature.com/ncomms/)
+*[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+*[European Radiology](https://link.springer.com/journal/330)
+*[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
+*[Breast Cancer Research and Treatment](https://link.springer.com/journal/10549)
 
 Conference
 ======
-Medical Imaging with Deep Learning (MIDL)
-European Association for Cancer Research (EACR)
-Radiological Society of North America (RSNA)
-European Congress of Radiology (ECR)
-Medical Image Computing and Computer Assisted Intervention (MICCAI)
+*Medical Imaging with Deep Learning (MIDL)
+*European Association for Cancer Research (EACR)
+*Radiological Society of North America (RSNA)
+*European Congress of Radiology (ECR)
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)
 
 Member
 ======
-Associate Member of the European Congress of Radiology (ECR)
-Member of the AI Validation Group of the Radiological Society of North America (RSNA)
-Member of the Medical Image Computing and Computer Assisted Intervention (MICCAI)
+*Associate Member of the European Congress of Radiology (ECR)
+*Member of the AI Validation Group of the Radiological Society of North America (RSNA)
+*Member of the Medical Image Computing and Computer Assisted Intervention (MICCAI)
