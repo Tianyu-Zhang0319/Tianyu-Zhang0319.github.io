@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently engaged in scientific research in [Regina Beets-Tan's](https://www.nki.nl/research/research-groups/regina-beets-tan/){:target="_blank"} group in the Radiology Department of the [Netherlands Cancer Institute](https://www.nki.nl/){:target="_blank"}, and [Ritse Mann's](https://scholar.google.com/citations?user=vPwW_6EAAAAJ&hl=zh-CN){:target="_blank"} Breast Imaging Group (BIG) in [RadboudUMC](https://www.radboudumc.nl/en/patient-care){:target="_blank"}. In early 2023, under the leadership of [Ritse Mann](https://scholar.google.com/citations?user=vPwW_6EAAAAJ&hl=zh-CN){:target="_blank"}, I participated in the [ODELIA](https://odelia.ai/) project as a postdoctoral researcher.
+I am currently engaged in scientific research in [Regina Beets-Tan's](https://www.nki.nl/research/research-groups/regina-beets-tan/){:target="_blank"} group in the Radiology Department of the [Netherlands Cancer Institute](https://www.nki.nl/){:target="_blank"}, and [Ritse Mann's](https://scholar.google.com/citations?user=vPwW_6EAAAAJ&hl=zh-CN){:target="_blank"} Breast Imaging Group (BIG) in [RadboudUMC](https://www.radboudumc.nl/en/patient-care){:target="_blank"}. In early 2023, under the leadership of [Ritse Mann](https://scholar.google.com/citations?user=vPwW_6EAAAAJ&hl=zh-CN){:target="_blank"}, I participated in the [ODELIA](https://odelia.ai/){:target="_blank"} project as a postdoctoral researcher.
 
 
 Research Interests
