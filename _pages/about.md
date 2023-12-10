@@ -25,13 +25,6 @@ Selected Publications
 
 More publications see my [GoogleScholar](https://scholar.google.com/citations?user=cDGQbLsAAAAJ&hl=zh-CN){:target="_blank"}
 
-Review Service
-======
-*    [Nature Communications](https://www.nature.com/ncomms/)
-*    [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
-*    [European Radiology](https://link.springer.com/journal/330)
-*    [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
-*    [Breast Cancer Research and Treatment](https://link.springer.com/journal/10549)
 
 Conference
 ======
@@ -46,3 +39,11 @@ Member
 *    Associate Member of the [European Society of Radiology (ESR)](https://www.myesr.org/)
 *    Member of the AI Validation Group of the [Radiological Society of North America (RSNA)](https://www.rsna.org/)
 *    Member of the [Medical Image Computing and Computer Assisted Intervention (MICCAI)](https://miccai.org/)
+
+Review Service
+======
+*    [Nature Communications](https://www.nature.com/ncomms/)
+*    [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+*    [European Radiology](https://link.springer.com/journal/330)
+*    [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
+*    [Breast Cancer Research and Treatment](https://link.springer.com/journal/10549)
