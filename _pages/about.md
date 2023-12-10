@@ -22,8 +22,7 @@ Selected Publications
 *    **Tianyu Zhang**, Luyi Han, Xin Wang, Yuan Gao, Chunyao Lu, Jonas Teuwen, Regina Beets-Tan, Tao Tan, Ritse Mann. Synthesis of contrast-enhanced breast MRI using multi-b-value DWI-based multi-sequence fusion network. [MICCAI, 2023, 79-88.](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_8){:target="_blank"}
 *    **Tianyu Zhang**, Ritse Mann. Contrast-enhanced Mammography: Better with AI? [European Radiology, 2023, 1-3.](https://link.springer.com/article/10.1007/s00330-023-10190-5){:target="_blank"}
 
-For more info
-------
+
 More publications see my [GoogleScholar](https://scholar.google.com/citations?user=cDGQbLsAAAAJ&hl=zh-CN){:target="_blank"}
 
 Review Service
