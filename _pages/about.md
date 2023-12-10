@@ -36,14 +36,14 @@ Review Service
 
 Conference
 ======
-*Medical Imaging with Deep Learning (MIDL)
-*European Association for Cancer Research (EACR)
-*Radiological Society of North America (RSNA)
-*European Congress of Radiology (ECR)
-*Medical Image Computing and Computer Assisted Intervention (MICCAI)
+*    [Medical Imaging with Deep Learning (MIDL)](https://www.midl.io/)
+*    [European Association for Cancer Research (EACR)](https://www.eacr.org/)
+*    [Radiological Society of North America (RSNA)](https://www.rsna.org/)
+*    [European Congress of Radiology (ECR)](https://www.myesr.org/congress/)
+*    [Medical Image Computing and Computer Assisted Intervention (MICCAI)](https://miccai.org/)
 
 Member
 ======
-*Associate Member of the European Congress of Radiology (ECR)
-*Member of the AI Validation Group of the Radiological Society of North America (RSNA)
-*Member of the Medical Image Computing and Computer Assisted Intervention (MICCAI)
+*    Associate Member of the [European Society of Radiology (ESR)](https://www.myesr.org/)
+*    Member of the AI Validation Group of the [Radiological Society of North America (RSNA)](https://www.rsna.org/)
+*    Member of the [Medical Image Computing and Computer Assisted Intervention (MICCAI)](https://miccai.org/)
