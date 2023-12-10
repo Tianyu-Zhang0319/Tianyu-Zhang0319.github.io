@@ -17,9 +17,6 @@ repository               : "Tianyu-Zhang0319/Tianyu-Zhang0319.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -32,7 +29,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : # "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -57,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -73,7 +70,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,7 +80,8 @@ author:
   name             : "Tianyu Zhang"
   avatar           : "profile.png"
   bio              : "Artificial Intelligence researcher with extensive experience"
-  location         : ["Radboudumc, the Netherlands"](https://www.radboudumc.nl/en/patient-care)
+  location         : "Radboudumc, the Netherlands"
+  location_uri     : "https://www.radboudumc.nl/en/patient-care"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cDGQbLsAAAAJ&hl=zh-CN"
@@ -96,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Tianyu-Zhang0319"
+  github           : "Tianyu-Zhang0319"
   google_plus      :
   keybase          :
   instagram        :
