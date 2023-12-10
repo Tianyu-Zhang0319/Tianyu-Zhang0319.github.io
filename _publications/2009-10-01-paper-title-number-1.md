@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "From community acquired pneumonia to COVID-19: a deep learning–based method for quantitative analysis of COVID-19 on thick-section CT scans"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'In this retrospective study, an AI system was developed to automatically segment and quantify the COVID-19-infected lung regions on thick-section chest CT images.'
+date: 2020-7-18
+venue: 'European Radiology'
+paperurl: 'https://doi.org/10.1007/s00330-020-07042-x'
+citation: 'Li, Z., Zhong, Z., Li, Y., Zhang, T. et al. (2020). &quot;From community acquired pneumonia to COVID-19: a deep learning–based method for quantitative analysis of COVID-19 on thick-section CT scans.&quot; <i>European Radiology</i>. 30(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1007/s00330-020-07042-x)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Li, Z., Zhong, Z., Li, Y., Zhang, T. et al. (2020). "From community acquired pneumonia to COVID-19: a deep learning–based method for quantitative analysis of COVID-19 on thick-section CT scans." <i>European Radiology</i>. 30(1).
