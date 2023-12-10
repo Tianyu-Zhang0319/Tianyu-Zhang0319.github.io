@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Multi-modal artificial intelligence for the combination of automated 3D breast ultrasound and mammograms in a population of women with predominantly dense breasts"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2023-1-16-Multi-modal artificial intelligence for the combination of automated 3D breast ultrasound and mammograms in a population of women with predominantly dense breasts
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2023-1-16
+venue: 'Insights into Imaging'
+paperurl: 'https://doi.org/10.1186/s13244-022-01352-y'
+citation: 'Tan, T., Rodriguez-Ruiz, A., Zhang, T. et al. (2023). &quot;Multi-modal artificial intelligence for the combination of automated 3D breast ultrasound and mammograms in a population of women with predominantly dense breasts.&quot; <i>Insights into Imaging</i>. 14(10).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+To assess the stand-alone and combined performance of artificial intelligence (AI) detection systems for digital mammography (DM) and automated 3D breast ultrasound (ABUS) in detecting breast cancer in women with dense breasts.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://doi.org/10.1186/s13244-022-01352-y)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Tan, T., Rodriguez-Ruiz, A., Zhang, T. et al. (2010). "Multi-modal artificial intelligence for the combination of automated 3D breast ultrasound and mammograms in a population of women with predominantly dense breasts." <i>Insights into Imaging</i>. 14(10).
