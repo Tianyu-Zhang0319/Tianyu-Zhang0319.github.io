@@ -8,7 +8,7 @@ venue: 'European Radiology'
 paperurl: 'https://doi.org/10.1007/s00330-020-07042-x'
 citation: 'Li, Z., Zhong, Z., Li, Y., Zhang, T. et al. (2020). &quot;From community acquired pneumonia to COVID-19: a deep learning–based method for quantitative analysis of COVID-19 on thick-section CT scans.&quot; <i>European Radiology</i>. 30(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this retrospective study, an AI system was developed to automatically segment and quantify the COVID-19-infected lung regions on thick-section chest CT images.
 
 [Download paper here](https://doi.org/10.1007/s00330-020-07042-x)
 
