@@ -1,10 +1,6 @@
 /* ==========================================================================
    FOOTER
    ========================================================================== */
-span.icon {
-    font-size: 35px;
-    color: #FF5274;
-    font-weight: bold; }
 
 .page__footer {
   @include clearfix;
@@ -26,6 +22,11 @@ span.icon {
           animation-delay: 0.45s;
   background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
+
+  span.icon {
+    font-size: 35px;
+    color: #FF5274;
+    font-weight: bold; }
 
   footer {
     @include clearfix;
@@ -87,6 +88,10 @@ span.icon {
     padding-right: 10px;
     font-weight: bold;
   }
+   span.icon {
+    font-size: 35px;
+    color: #FF5274;
+    font-weight: bold; }
 
   .social-icons {
     a {
