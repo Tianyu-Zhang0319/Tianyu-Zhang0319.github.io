@@ -45,6 +45,7 @@ Review Service
 *    [Nature Communications](https://www.nature.com/ncomms/)
 *    [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
 *    [European Radiology](https://link.springer.com/journal/330)
+*    [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)
 *    [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
 *    [Breast Cancer Research and Treatment](https://link.springer.com/journal/10549)
 
