@@ -12,7 +12,7 @@ I am currently engaged in scientific research in [Regina Beets-Tan's](https://ww
 
 Research Interests
 ======
-My research focuses on artificial intelligence in medicine. My current projects include predicting molecular subtypes of breast cancer using multimodal data (mammography, ultrasound, MRI, etc.) based on deep learning, processing unstructured electronic health records and providing decision support based on natural language processing models, synthesis of missing MRI sequences based on AI models, prediction of breast cancer response to therapy based on radiomics, etc. 
+My research focuses on medical image analysis and natural language processing, with a particular emphasis on multimodal AI model development and its integration into clinical workflows. 
 
 Selected Publications
 ======
