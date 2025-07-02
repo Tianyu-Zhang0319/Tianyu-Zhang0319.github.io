@@ -16,6 +16,7 @@ My research focuses on artificial intelligence in medicine. My current projects 
 
 Selected Publications
 ======
+*    **Tianyu Zhang**, Tao Tan, Luyi Han, Xin Wang, Yuan Gao, Jarek van Dijk, Antonio Portaluri, Abel Gonzalez-Huete, Anna D’Angelo, Chunyao Lu, Jonas Teuwen, Regina Beets-Tan, Yue Sun, Ritse Mann. IMPORTANT-Net: integrated MRI multi-parametric increment fusion generator with attention network for synthesizing absent data. [Information Fusion, 2024, 108, 102381.](https://doi.org/10.1016/j.inffus.2024.102381){:target="_blank"}
 *    **Tianyu Zhang**, Tao Tan, Xin Wang, Yuan Gao, Luyi Han, Luuk Balkenende, Anna D’Angelo, Lingyun Bao, Hugo M. Horlings, Jonas Teuwen, Regina G. H. Beets-Tan, Ritse M. Mann. RadioLOGIC: A healthcare model for processing electronic health records and decision-making in breast disease. [Cell Reports Medicine, 2023, 4(8).](https://www.sciencedirect.com/science/article/pii/S2666379123002598){:target="_blank"}
 *    **Tianyu Zhang**, Ritse Mann. Contrast-enhanced Mammography: Better with AI? [European Radiology, 2023, 1-3.](https://link.springer.com/article/10.1007/s00330-023-10190-5){:target="_blank"}
 *    **Tianyu Zhang**, Tao Tan, Luyi Han, Linda Appelman, Jeroen Veltman, Ronni Wessels, Katya Duvivier, Claudette Loo, Yuan Gao, Xin Wang, Hugo Horlings, Regina Beets-Tan,  Ritse Mann. Predicting breast cancer types on and beyond molecular level in a multi-modal fashion. [NPJ Breast Cancer, 2023, 9(1): 16.](https://www.nature.com/articles/s41523-023-00517-2){:target="_blank"}
