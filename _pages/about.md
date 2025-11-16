@@ -53,7 +53,7 @@ Editors
 ======
 *    Trainee Editorial Board (2025-present) @ Radiology: Artificial Intelligence (IF = 13.2)
 *    Scientific Editorial Board (2026) @ European Radiology Experimental (IF = 3.8)
-*    Editor (2024-presnet) @ MICCAI, Deep-Breath series
+*    Editor (2024-present) @ MICCAI, Deep-Breath series
 
 Review Service
 ======
