@@ -58,6 +58,9 @@ Editors
 Review Service
 ======
 *    [Nature Communications](https://www.nature.com/ncomms/)
+*    [Advanced Science](https://advanced.onlinelibrary.wiley.com/journal/21983844)
+*    [Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai)
+*    [Artificial intelligence in medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
 *    [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
 *    [European Radiology](https://link.springer.com/journal/330)
 *    [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi)
