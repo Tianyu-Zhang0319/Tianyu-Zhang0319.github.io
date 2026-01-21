@@ -21,8 +21,8 @@ Selected Book(s)
 Selected Publications
 ======
 (†, co-first authors; *, Corresponding author)
-*    Xinglong Liang†, **Tianyu Zhang**†, Miguel Braga, Luyi Han, Maarten Donswijk, Jiaju Huang, Jinhong Song, Chunyao Lu, Xin Wang, Yuan Gao, Chunyan Xiong, Yue Sun, Jun Xu, Jonas Teuwen, Wouter Vogel, Tao Tan, Ritse Mann. Multi-omics deep learning improves FDG
-PET-CT-based long-term prognostication of breast cancer. NPJ Precision Oncology, 2026.
+*    Xinglong Liang†, **Tianyu Zhang**†, Miguel Braga, Luyi Han, Maarten Donswijk, Jiaju Huang, Jinhong Song, Chunyao Lu, Xin Wang, Yuan Gao, Chunyan Xiong, Yue Sun, Jun Xu, Jonas Teuwen, Wouter Vogel, Tao Tan, Ritse Mann. Multi-omics deep learning improves FDG PET-CT-based long-term prognostication of breast cancer. NPJ Precision Oncology, 2026.
+*    **Tianyu Zhang**, Antonio Portaluri, Ritse Mann. Reading the future: how AI rewrites mammography workflows. [European Radiology, 2026.](https://doi.org/10.1007/s00330-025-12266-w){:target="_blank"}
 *    Chunyao Lu†, **Tianyu Zhang**†, Xinglong Liang, Yuan Gao, Luyi Han, Xin Wang, Nika Rasoolzadeh, Tao Tan, Ritse Mann. LUMIN: A Longitudinal Multi-modal Knowledge Decomposition Network for Predicting Breast Cancer Recurrence. [AAAI, 2026.](https://aaai.org/conference/aaai/aaai-26/){:target="_blank"}
 *    **Tianyu Zhang**, Xinglong Liang, Ritse Mann. Multimodal artificial intelligence in breast cancer: towards integrated prediction and personalized care. [European Radiology, 2025.](https://link.springer.com/article/10.1007/s00330-025-12085-z){:target="_blank"}
 *    Luyi Han†, **Tianyu Zhang**†, Anna D’Angelo, Anna van der Voort, Katja Pinker-Domenig, Marleen Kok, Gabe Sonke, Yuan Gao, Xin Wang, Chunyao Lu, Xinglong Liang, Jonas Teuwen, Tao Tan, and Ritse Mann. Personalized Neoadjuvant Therapy Recommendations in Breast Cancer from an Explainable Multi-Omics Response Model. [eClinicalMedicine, 2025.](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00288-3/fulltext){:target="_blank"}
