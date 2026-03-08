@@ -55,8 +55,8 @@ Members
 
 Editors
 ======
-*    Trainee Editorial Board (2025-present) @ Radiology: Artificial Intelligence (IF = 13.2)
-*    Scientific Editorial Board (2026) @ European Radiology Experimental (IF = 3.8)
+*    Trainee Editorial Board (2025.7-present) @ Radiology: Artificial Intelligence (IF = 13.2)
+*    Scientific Editorial Board (2026.1-present) @ European Radiology Experimental (IF = 3.8)
 *    Editor (2024-present) @ MICCAI, Deep-Breath series
 
 Review Service
