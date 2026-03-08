@@ -12,7 +12,7 @@ I am currently engaged in scientific research in [Regina Beets-Tan's](https://ww
 
 Research Interests
 ======
-My research focuses on medical image analysis and natural language processing, with a particular emphasis on multimodal AI model development and its integration into clinical workflows. 
+My research lies at the intersection of multimodal artificial intelligence and precision oncology, with a primary focus on developing robust, dynamic AI architectures for the full clinical lifecycle. Specifically, my interests encompass dynamic spatiotemporal modeling for heterogeneous clinical data (radiology, pathology, EHRs, and multi-omics), the integration of Large Vision-Language Models (VLMs/LLMs) for clinical decision support, and privacy-preserving decentralized AI (e.g., Swarm Learning) to facilitate global multi-center clinical validation and standardization.
 
 Selected Books
 ======
@@ -22,7 +22,7 @@ Selected Books
 Selected Publications
 ======
 (†, co-first authors; *, Corresponding author)
-*    **Tianyu Zhang***, Simone Schiaffino, Andrea Cozzi, Daly Avendano, Almir Bitencourt, Mengmeng Cao, Robert Gullo, Julia Herrero, Panagiotides Kapetas, Andrea Leoncini, Mami Iima, Gordana Ivanac, Nazimah Mumin, Filippo Pesapane, Antonio Portaluri, Stephanie Sauer, Dorothy Sippo, Ritse Mann, Katja Pinker-Domenig. Benchmarking Large Language Models for Multilingual Radiology Report Interpretation and Clinical Risk Assessment. [Nature Communications (In Production), 2026.](https://www.nature.com/ncomms/){:target="_blank"}
+*    **Tianyu Zhang**, Simone Schiaffino, Andrea Cozzi, Daly Avendano, Almir Bitencourt, Mengmeng Cao, Robert Gullo, Julia Herrero, Panagiotides Kapetas, Andrea Leoncini, Mami Iima, Gordana Ivanac, Nazimah Mumin, Filippo Pesapane, Antonio Portaluri, Stephanie Sauer, Dorothy Sippo, Ritse Mann, Katja Pinker-Domenig. Benchmarking Large Language Models for Multilingual Radiology Report Interpretation and Clinical Risk Assessment. [Nature Communications (In Production), 2026.](https://www.nature.com/ncomms/){:target="_blank"}
 *    **Tianyu Zhang***, Nika Rasoolzadeh, Ritse M Mann. Can multimodal AI bridge imaging and prognosis in breast cancer? [European Radiology, 2026.](https://doi.org/10.1007/s00330-026-12377-y){:target="_blank"}
 *    Chunyao Lu†, **Tianyu Zhang**†, Xinglong Liang, Yuan Gao, Luyi Han, Xin Wang, Nika Rasoolzadeh, Tao Tan, Ritse Mann. LUMIN: A Longitudinal Multi-modal Knowledge Decomposition Network for Predicting Breast Cancer Recurrence. [AAAI, 2026.](https://aaai.org/conference/aaai/aaai-26/){:target="_blank"}
 *    **Tianyu Zhang***, Antonio Portaluri, Ritse Mann. Reading the future: how AI rewrites mammography workflows. [European Radiology, 2026.](https://doi.org/10.1007/s00330-025-12266-w){:target="_blank"}
