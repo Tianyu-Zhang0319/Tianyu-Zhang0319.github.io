@@ -35,6 +35,7 @@ Selected Publications
 
 
 ### Published / Accepted
+*    **Tianyu Zhang**, Xinglong Liang, Jarek van Dijk, Luyi Han, Chunyao Lu, Antonio Portaluri, Xinghe Xie, Yaofei Duan, Nika Rasoolzadeh, Xin Wang, Yuan Gao, Muzhen He, Yue Sun, Jonas Teuwen, Tao Tan, Ritse Mann. SAFE-Diff: Scale-Aware Attention and Feature-Dispersive Diffusion with Uncertainty Estimation for Contrast-Enhanced Breast MRI Synthesis. [MICCAI, 2026.](https://arxiv.org/abs/2605.25767){:target="_blank"}
 *    **Tianyu Zhang**, Simone Schiaffino, Andrea Cozzi, Daly Avendano, Almir Bitencourt, Mengmeng Cao, Robert Gullo, Julia Herrero, Panagiotides Kapetas, Andrea Leoncini, Mami Iima, Gordana Ivanac, Nazimah Mumin, Filippo Pesapane, Antonio Portaluri, Stephanie Sauer, Dorothy Sippo, Ritse Mann, Katja Pinker-Domenig*. Benchmarking Large Language Models for Multilingual Radiology Report Interpretation and Clinical Risk Assessment. [Nature Communications (In Production), 2026.](https://www.nature.com/ncomms/){:target="_blank"}
 *    **Tianyu Zhang***, Nika Rasoolzadeh, Ritse M Mann. Can multimodal AI bridge imaging and prognosis in breast cancer? [European Radiology, 2026.](https://doi.org/10.1007/s00330-026-12377-y){:target="_blank"}
 *    Chunyao Lu†, **Tianyu Zhang**†, Xinglong Liang, Yuan Gao, Luyi Han, Xin Wang, Nika Rasoolzadeh, Tao Tan, Ritse Mann. LUMIN: A Longitudinal Multi-modal Knowledge Decomposition Network for Predicting Breast Cancer Recurrence. [AAAI, 2026.](https://aaai.org/conference/aaai/aaai-26/){:target="_blank"}
@@ -69,8 +70,9 @@ Members
 
 Editors
 ======
-*    Trainee Editorial Board (2025.7-present) @ Radiology: Artificial Intelligence (IF = 13.2)
+*    Editorial Board (2026.3-present) @ BMC Medicine (IF = 8.3)
 *    Scientific Editorial Board (2026.1-present) @ European Radiology Experimental (IF = 3.8)
+*    Trainee Editorial Board (2025.7-present) @ Radiology: Artificial Intelligence (IF = 13.2)
 *    Editor (2024-present) @ MICCAI, Deep-Breath series
 
 Review Service
