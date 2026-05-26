@@ -31,7 +31,7 @@ Selected Publications
 *    Nika Rasoolzadeh, **Tianyu Zhang***, Chunyao Lu, Antonio Portaluri, Xinglong Liang, Jarek van Dijk, Qiuhui Yang, Tao Tan, Ritse Mann. Learning Generalizable Breast MRI Representations with Multimodal Language–Image Pretraining. 2026.
 *    Antonio Portaluri, Luyi Han, Jarek van Dijk, Xinglong Liang, Marialena Tsarouchi, Carla Sitges, Miguel Braga, Noemi Schmidt, Maria Adele Marino, Tao Tan, **Tianyu Zhang***, Ritse Mann. Evaluating synthetic T2-weighted Breast MRI: a multi-reader, multi-center study. 2026.
 *    Jarek van Dijk, Antonio Portaluri, Xinglong Liang, Luyi Han, Nika Rasoolzadeh, Tao Tan, **Tianyu Zhang***, Ritse Mann. Toward Automated Breast MRI Reporting: Multi-Structure Segmentation with Quantitative Imaging Phenotyping. 2026.
-*    Ruixiang Qi†, **Tianyu Zhang**†, Xinglong Liang, Chaochao Dai, Zhihui Chen, Antonio Portaluri, Chunyao Lu, Anchi Zhang, Yunxia Gu, Lei Xu, Yiting Lin, Tao Tan, Jialin Han, Lingyun Bao, Ritse Mann. Performance of Multimodal Large Language Models in Generating BI-RADS Structured Reports from Breast Ultrasound Images: A Multicenter Study. 2026.
+*    Ruixiang Qi†, Xinglong Liang†, **Tianyu Zhang***, Chaochao Dai, Zhihui Chen, Antonio Portaluri, Chunyao Lu, Anchi Zhang, Yunxia Gu, Lei Xu, Yiting Lin, Tao Tan, Jialin Han, Lingyun Bao, Ritse Mann. Performance of Multimodal Large Language Models in Generating BI-RADS Structured Reports from Breast Ultrasound Images: A Multicenter Study. 2026.
 
 
 ### Published / Accepted
