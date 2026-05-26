@@ -70,9 +70,9 @@ Members
 
 Editors
 ======
-*    Editorial Board (2026.3-present) @ BMC Medicine (IF = 8.3)
-*    Scientific Editorial Board (2026.1-present) @ European Radiology Experimental (IF = 3.8)
-*    Trainee Editorial Board (2025.7-present) @ Radiology: Artificial Intelligence (IF = 13.2)
+*    Editorial Board (2026.3-present) @ BMC Medicine (IF = 8.7)
+*    Scientific Editorial Board (2026.1-present) @ European Radiology Experimental (IF = 4.7)
+*    Trainee Editorial Board (2025.7-present) @ Radiology: Artificial Intelligence (IF = 19.5)
 *    Editor (2024-present) @ MICCAI, Deep-Breath series
 
 Review Service
